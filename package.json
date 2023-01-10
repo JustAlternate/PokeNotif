@@ -72,5 +72,13 @@
     "start": "electron ."
   },
   "author": "JustAlternate",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustAlternate/PokeNotif.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JustAlternate/PokeNotif/issues"
+  },
+  "homepage": "https://github.com/JustAlternate/PokeNotif#readme"
 }
