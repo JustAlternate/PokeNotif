@@ -1,7 +1,5 @@
 from desktop_notifier import DesktopNotifier, Button
 import asyncio
-import time
-
 
 # LES FUNCTIONS :
 
